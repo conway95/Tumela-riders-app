@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "664543025337",
+    "project_id": "thumela-version-2",
+    "storage_bucket": "thumela-version-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664543025337:android:9c8ed3b9cfdd17c9f9e368",
+        "android_client_info": {
+          "package_name": "com.conway.ridersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n2_tOa260oCsVUuQrT3AhZa0IDWht3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664543025337:android:5cae816f6198942ef9e368",
+        "android_client_info": {
+          "package_name": "com.conway.sellersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n2_tOa260oCsVUuQrT3AhZa0IDWht3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664543025337:android:ddf8c62f01144d5bf9e368",
+        "android_client_info": {
+          "package_name": "com.conway.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n2_tOa260oCsVUuQrT3AhZa0IDWht3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
